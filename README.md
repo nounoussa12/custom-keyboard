@@ -15,6 +15,20 @@ Here's some photo of my switch matrix, my addons and my raspberry pi :
 <img width="1541" height="882" alt="image" src="https://github.com/user-attachments/assets/defec5d3-39f7-45e2-9e3a-67f7cca853f6" />
 <img width="246" height="372" alt="image" src="https://github.com/user-attachments/assets/b84356af-00aa-40b9-b423-69f6f4b1999d" />
 
+## 3h in 
+I finished all i needed in my schematic added resistor and capacitor in the led matrix to secure it and annotated all the part and added all the footprint and my schematic was finished
+here's the last picture of my schematic :
+<img width="1798" height="922" alt="image" src="https://github.com/user-attachments/assets/c68c4775-ee38-42dc-90d8-b8a8964a622f" />
+<img width="1542" height="967" alt="image" src="https://github.com/user-attachments/assets/e32ce1cf-321d-4223-9d47-3b81ecba9f1b" />
+<img width="857" height="493" alt="image" src="https://github.com/user-attachments/assets/a725a803-235a-49e8-bcf1-7393c991ee68" />
+Now i am starting the pcb part i didn't start yet but i have now to do some tricks to make it compact but also to fit all the part inside it
+Here's a picture of the starting pcb :
+<img width="703" height="652" alt="image" src="https://github.com/user-attachments/assets/c7bab2c5-d345-4d38-8090-fe6ab14e0d28" />
+
+
+
+
+
 
 
 
