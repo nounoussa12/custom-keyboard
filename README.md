@@ -25,6 +25,13 @@ Now i am starting the pcb part i didn't start yet but i have now to do some tric
 Here's a picture of the starting pcb :
 <img width="703" height="652" alt="image" src="https://github.com/user-attachments/assets/c7bab2c5-d345-4d38-8090-fe6ab14e0d28" />
 
+## 4h in
+I started placing all the diode and switches in place but now i have to place the LED's and after it I will have to start routing the trace
+here's my progress :
+<img width="988" height="706" alt="image" src="https://github.com/user-attachments/assets/27fe9b27-e1c0-438a-ae6b-200f7dba2bda" />
+<img width="1182" height="542" alt="image" src="https://github.com/user-attachments/assets/3103f394-17b2-4a12-a3e1-8ba85991601a" />
+
+
 
 
 
